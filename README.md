@@ -57,6 +57,7 @@ void loop() {
 
 ![](https://raw.githubusercontent.com/Miguebt2707/Migue/58a91fd89248544751ce10d0b89966ddedf04d3a/Captura%20de%20pantalla%202023-03-14%20135034.png)
 
+
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
 
 ![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m.%20(2).png?raw=true)
