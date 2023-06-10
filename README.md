@@ -55,7 +55,10 @@ void loop() {
 ```
 2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![](https://raw.githubusercontent.com/Miguebt2707/Migue/58a91fd89248544751ce10d0b89966ddedf04d3a/Captura%20de%20pantalla%202023-03-14%20135034.png)
+EN ESTE PASO ES DONDE GUARDAMOS LAS IMAGENES COMO EVIDENCIA HACIENDO 
+
+![](https://github.com/Miguebt2707/practica-DTH22/blob/main/PRACTICA%20DTH22.png?raw=true)
+
 
 
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
